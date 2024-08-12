@@ -1,0 +1,66 @@
+body{
+	background: grey;
+}
+h1{
+	border: 2px solid;
+	border-color: red;
+	border-width: 4px;
+	border-radius: 30px;
+	text-align: center;
+	background: blue;
+	color: yellow;
+	font-size: 35px;
+	font-family: elephant;
+}
+p{
+	color: orange;
+}
+#Mc{
+	color: blue;
+}
+.Mcm{
+	color: green;
+}
+div{
+	margin-left: 40px;
+	margin-right: 45px;
+	margin-bottom: 30px;
+	border: 15px solid green;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+a{
+	color: yellow;
+	background: black;
+	font-size: 25px;
+	text-decoration: none;
+}
+a:hover{
+	color: blue;
+	background: red;
+}
+a:visited{
+	color: white;
+}
+ol{
+	color: blue;
+	font-family: Lucida handwriting;
+	margin-left: 300px;
+}
+table, th, tr, td{
+	border: 2px solid;
+	border-radius: 26px;
+	background: yellow;
+
+}
+th{
+	color: red;
+	border-color: green;
+	background: white;
+}
+td{
+	color: purple;
+}
+
